@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculadoraPintura4261213458 {
+public class CalculadoraPintura {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
